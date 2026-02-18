@@ -2,4 +2,7 @@ streamlit
 pandas
 requests
 beautifulsoup4
+yfinance
+plotly
+matplotlib
 lxml
